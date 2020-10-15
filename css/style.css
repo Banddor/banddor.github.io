@@ -2,6 +2,10 @@ h1{
     text-align: center ;
     color: blue;
 }
+p{
+    text-align: center;
+}
 #cons{
     align-self: center;
+    font-size: large;
 }
