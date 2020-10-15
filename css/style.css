@@ -7,5 +7,7 @@ p{
 }
 #cons{
     align-self: center;
-    font-size: large;
+    color: red;
+    font-size: larger;
+    font-weight: bolder;
 }
